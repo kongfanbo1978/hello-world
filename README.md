@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+Hi all：
+
+this is my first message！
+
